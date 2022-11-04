@@ -69,4 +69,4 @@ PUT METHOD: Assigns a favorite_coin to a user. The favorite_coin "user" field wi
     - Returns:
         204 NO CONTENT
 
-![UML](/Users/joryoberlies/Desktop/UML.png?raw=true "UML")
+![UML](UML.png)
