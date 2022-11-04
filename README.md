@@ -44,7 +44,7 @@ POST METHOD [/users]: Creates a user. List of favorite coins will be initialized
             "self": "http://127.0.0.1:8080/users/5632499082330112"
         }
 
-POST METHOD [/coins]: Creates a coin. User will be initialized to null.
+POST METHOD [/favorite_coins]: Creates a coin. User will be initialized to null.
 
     - Example API call:
         POST http://127.0.0.1:8080/favorite_coins/
